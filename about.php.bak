@@ -1,0 +1,22 @@
+<head>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<link rel="stylesheet" href="index.css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+	<img src="pcloth.png" alt="Image didn't Load">
+	<div id="nav-bar">
+		
+	</div>
+	<script>
+		$(function(){
+		$("#nav-bar").load("nav.php");
+		});
+	</script>
+	<h1>About St. Lydia</h1>
+	<h2>Saint Lydia was from the city of Thyatira in Asia Minor and relocated to Philippi in modern day Greece.  She was a seller of purple goods (Acts 16:14).  Her city and her trade tell us she was a woman of industry, intelligence and means.  She dealt with the elite, the wealthy and the powerful.  As such she had the grace of high society as well as the practical sense of an astute and confident businesswoman. She was a woman of faith, a worshiper of God even before she encountered the saving truth of Jesus Christ. As a reward for her devotion to God, Scripture tells us that “the Lord opened her heart to give heed to” the proclamation of the Gospel (Acts 16: 14).  Being stirred by the Holy Spirit, “she was baptized with her household.” (Acts 16:15).   After leading her entire household to faith, she was inspired to minister to the Church through hospitality and support.  She was the first to be baptized on the European continent.  It has been said, “We would do well to recall that Christianity began in Europe because of the Apostolate of one dedicated woman named Lydia.”(Citation necessary. I think it is from the book In Conversation with God, p. 41) Lydia offered hospitality, support, and comfort to the Apostles and first Christians. Acts 16:40. Pope Benedict XVI refers to her in his encyclical, “The Door of Faith” as a worthy example of faith (Porta fidei, §10).  Her feast day is August 3rd.</h2>
+</body>

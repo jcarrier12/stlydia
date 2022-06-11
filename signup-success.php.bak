@@ -1,0 +1,7 @@
+<head>
+	<link href="index.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+	<h1>Thank You for Logging in!</h1>
+	<a href="index.php" class="button" id="gthp">Go to Home Page</a>
+</body>

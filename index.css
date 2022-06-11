@@ -1,0 +1,193 @@
+h1{
+	text-align: center;
+	color: #582478;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 60pt;
+	padding: 0;
+}
+
+
+
+h2{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: 250px;
+	grid-gap: 10px;
+}
+
+#nav-bar{
+	
+	background-color: #60425e;
+	position: sticky;
+	top:0;
+	width: 100%;
+	z-index: 999;
+	left: 0;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#undln{
+	text-decoration: none;
+}
+
+img{
+	height: 30%;
+	float: left;
+	margin-right: 15px;
+}
+
+ol{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-weight: bold;
+}
+
+#list1 {
+	float: left;
+	text-decoration: none;
+}
+
+body{
+	background: linear-gradient(rgba(0,0,0,0.5),#B27CB2),url('ocean.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	height: 150vh;
+	margin: 30pt;
+}
+
+ol, h2 {
+	font-size: 17pt;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.tab div {
+    display: none;
+}
+
+.tab div:target {
+    display: block;
+  
+}
+
+.wrapper {
+	justify-content: center;
+}
+
+.login{
+	display: flex;
+	justify: center;
+	align-items: center;
+}
+
+.wrapper .icon{
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 50%;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 22px;
+  display: inline-block;
+  align-items: center;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  color: #333;
+  text-decoration: none;
+}
+.wrapper .tooltip {
+  position: absolute;
+  top: 0;
+  line-height: 1.5;
+  font-size: 14px;
+  background-color: #ffffff;
+  color: #ffffff;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .tooltip::before {
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background-color: #ffffff;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-50%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .icon:hover .tooltip {
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip {
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+}
+.wrapper .facebook:hover,
+.wrapper .facebook:hover .tooltip,
+.wrapper .facebook:hover .tooltip::before {
+  background-color: #3b5999;
+  color: #ffffff;
+}
+.wrapper .twitter:hover,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip::before {
+  background-color: #46c1f6;
+  color: #ffffff;
+}
+.wrapper .instagram:hover,
+.wrapper .instagram:hover .tooltip,
+.wrapper .instagram:hover .tooltip::before {
+  background-color: #e1306c;
+  color: #ffffff;
+}
+.wrapper .github:hover,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip::before {
+  background-color: #333333;
+  color: #ffffff;
+}
+.wrapper .youtube:hover,
+.wrapper .youtube:hover .tooltip,
+.wrapper .youtube:hover .tooltip::before {
+  background-color: #de463b;
+  color: #ffffff;
+}
+
+label, p, textarea{
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: #ffffff;
+	font-weight: bold;
+}
