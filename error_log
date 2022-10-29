@@ -1,0 +1,221 @@
+[16-Jun-2022 13:58:44 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 26
+[16-Jun-2022 13:58:48 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 26
+[16-Jun-2022 13:58:49 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 26
+[16-Jun-2022 13:58:57 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 26
+[16-Jun-2022 14:03:06 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 14:03:40 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 14:06:33 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 14:07:17 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 14:09:20 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 14:21:08 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/socieum3/public_html/enroll.php on line 25
+[16-Jun-2022 17:37:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 18
+[17-Jun-2022 14:44:48 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[22-Jun-2022 14:50:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[23-Jun-2022 15:06:43 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[26-Jun-2022 11:50:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[02-Jul-2022 05:43:40 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:43:44 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:47:17 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:47:21 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:50:55 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:50:59 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:54:28 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:54:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:58:00 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 05:58:04 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:01:36 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:01:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:05:09 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:05:13 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:08:41 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:08:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:12:15 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:12:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:15:49 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 06:15:53 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 12:12:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 12:12:53 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 12:55:15 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/socieum3/public_html/config.php on line 12
+[02-Jul-2022 13:38:20 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 13:38:23 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 15:17:30 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 15:17:33 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 16:44:17 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 16:44:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 18:14:52 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 18:14:56 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 19:47:59 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 19:48:03 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 21:25:26 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 21:25:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 23:02:47 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[02-Jul-2022 23:02:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 00:37:15 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 00:37:18 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 02:12:10 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 02:12:12 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 02:45:56 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 02:45:59 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 03:39:12 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 03:39:14 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 03:44:47 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 03:44:49 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 04:32:22 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 04:32:24 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 05:16:23 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 05:16:27 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 05:25:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 05:25:35 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 06:18:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 06:18:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 06:49:33 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 06:49:36 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 07:11:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 07:11:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:04:43 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:04:46 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:21:18 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:21:20 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:25:38 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:25:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:58:07 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 08:58:09 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 09:51:34 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 09:51:36 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 09:56:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 09:56:48 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 10:32:21 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 10:32:24 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 10:49:36 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 10:49:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 11:43:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 11:43:22 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 11:47:46 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 11:47:48 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 12:36:53 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 12:36:55 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 12:55:11 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 12:55:14 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 13:18:18 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 13:18:21 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 13:30:30 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 13:30:33 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 14:24:07 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 14:24:09 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 14:49:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 14:49:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 15:01:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 15:01:49 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 15:18:15 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 15:18:17 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 16:12:38 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 16:12:40 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 16:36:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 16:36:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 17:08:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 17:08:22 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 17:10:24 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 17:10:27 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:03:12 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:03:14 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:10:17 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:10:20 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:57:56 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 18:57:58 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:25:18 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:25:21 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:48:02 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:48:05 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:51:54 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 19:51:57 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 20:46:04 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 20:46:07 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:24:56 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:24:58 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:40:34 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:40:37 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:42:07 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 21:42:09 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 22:35:16 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 22:35:19 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:01:23 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:01:26 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:29:54 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:29:57 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:53:58 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[03-Jul-2022 23:54:00 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 00:24:44 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 00:24:46 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 00:35:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 00:35:54 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 01:20:37 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 01:20:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 02:07:16 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 02:07:18 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 02:15:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 02:15:45 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 04:21:05 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 04:21:08 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 06:42:03 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 06:42:06 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 09:01:38 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 09:01:41 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 11:22:10 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 11:22:13 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 13:45:49 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 13:45:52 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 16:08:01 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 16:08:03 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 18:34:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 18:34:53 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 20:55:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 20:55:43 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 23:14:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[04-Jul-2022 23:14:34 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 01:42:40 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 01:42:43 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 04:07:35 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 04:07:38 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 06:33:25 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 06:33:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 08:58:05 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 08:58:11 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 11:16:38 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 11:16:40 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 13:39:26 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[05-Jul-2022 13:39:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[06-Jul-2022 07:25:58 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[07-Jul-2022 19:46:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[09-Jul-2022 09:46:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 19
+[10-Jul-2022 14:15:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 20
+[10-Jul-2022 14:25:36 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/socieum3/public_html/enroll.php:1) in /home1/socieum3/public_html/enroll.php on line 20
+[16-Jul-2022 00:46:05 UTC] PHP Fatal error:  Uncaught Error: Class 'NewfoldLabs\WP\Module\Data\Helpers\Transient' not found in /home1/socieum3/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/bluehost-wp-customer-data/includes/Customer.php:19
+Stack trace:
+#0 /home1/socieum3/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/bluehost-wp-customer-data/bootstrap.php(33): Bluehost\WP\Data\Customer::collect()
+#1 /home1/socieum3/public_html/wp-includes/class-wp-hook.php(307): bluehost_data_cron_callback(Array)
+#2 /home1/socieum3/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#3 /home1/socieum3/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/endurance/wp-module-data/src/Listeners/Cron.php(42): apply_filters('endurance_wp_da...', Array)
+#4 /home1/socieum3/public_html/wp-includes/class-wp-hook.php(307): Endurance\WP\Module\Data\Listeners\Cron->update()
+#5 /home1/socieum3/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /home1/socieum3/ in /home1/socieum3/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/bluehost-wp-customer-data/includes/Customer.php on line 19
+[11-Aug-2022 14:04:49 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 27
+[11-Aug-2022 14:07:52 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 27
+[11-Aug-2022 14:08:26 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 27
+[11-Aug-2022 14:15:38 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 27
+[11-Aug-2022 14:21:23 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 42
+[11-Aug-2022 14:25:08 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 42
+[11-Aug-2022 14:25:15 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 42
+[11-Aug-2022 14:25:39 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 42
+[11-Aug-2022 14:27:19 America/Boise] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home1/socieum3/public_html/thankyou.php on line 42
+[06-Sep-2022 18:02:37 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[06-Sep-2022 18:02:42 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[09-Sep-2022 00:29:04 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[09-Sep-2022 00:29:09 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/socieum3/public_html/login.php on line 21
+[09-Sep-2022 15:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Error_Handler::check_api_response_for_errors() in /home1/socieum3/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php:44
+Stack trace:
+#0 /home1/socieum3/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php(462): Automattic\Jetpack\Connection\Client::remote_request(Array, NULL)
+#1 /home1/socieum3/public_html/wp-content/plugins/jetpack/class.jetpack-plan.php(213): Automattic\Jetpack\Connection\Client::wpcom_json_api_request_as_blog('/sites/20797118...', '1.1')
+#2 /home1/socieum3/public_html/wp-includes/class-wp-hook.php(307): Jetpack_Plan::refresh_from_wpcom('')
+#3 /home1/socieum3/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home1/socieum3/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home1/socieum3/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-co in /home1/socieum3/public_html/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-connection/src/class-client.php on line 44

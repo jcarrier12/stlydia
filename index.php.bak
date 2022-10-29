@@ -14,14 +14,17 @@
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'>
 	</head>
-	<div id="nav-bar">
+	<main>
+		<div id="nav-bar">
 			
-	</div>
-	<script>
-		$(function(){
-		$("#nav-bar").load("nav.php");
-		});
-	</script>
+		</div>
+		<script>
+			$(function(){
+			$("#nav-bar").load("nav.php");
+			});
+		</script>
+	</main>
+	
 	<body>
 		<section id="bg"></section>
 		
